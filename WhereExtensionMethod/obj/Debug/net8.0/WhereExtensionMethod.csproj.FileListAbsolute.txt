@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\bin\Debug\net8.0\WhereExtensionMethod.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\bin\Debug\net8.0\WhereExtensionMethod.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\bin\Debug\net8.0\WhereExtensionMethod.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\bin\Debug\net8.0\WhereExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\bin\Debug\net8.0\WhereExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\refint\WhereExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\WhereExtensionMethod.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\WhereExtensionMethod\obj\Debug\net8.0\ref\WhereExtensionMethod.dll

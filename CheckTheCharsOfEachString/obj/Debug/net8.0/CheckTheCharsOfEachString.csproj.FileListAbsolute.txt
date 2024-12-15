@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\bin\Debug\net8.0\CheckTheCharsOfEachString.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\bin\Debug\net8.0\CheckTheCharsOfEachString.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\bin\Debug\net8.0\CheckTheCharsOfEachString.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\bin\Debug\net8.0\CheckTheCharsOfEachString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\bin\Debug\net8.0\CheckTheCharsOfEachString.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\refint\CheckTheCharsOfEachString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\CheckTheCharsOfEachString.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\CheckTheCharsOfEachString\obj\Debug\net8.0\ref\CheckTheCharsOfEachString.dll

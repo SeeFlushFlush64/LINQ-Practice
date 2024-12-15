@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\bin\Debug\net8.0\SelectExtensionMethod.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\bin\Debug\net8.0\SelectExtensionMethod.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\bin\Debug\net8.0\SelectExtensionMethod.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\bin\Debug\net8.0\SelectExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\bin\Debug\net8.0\SelectExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\refint\SelectExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\SelectExtensionMethod.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SelectExtensionMethod\obj\Debug\net8.0\ref\SelectExtensionMethod.dll

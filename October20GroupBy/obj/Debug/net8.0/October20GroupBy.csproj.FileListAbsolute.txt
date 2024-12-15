@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\bin\Debug\net8.0\October20GroupBy.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\bin\Debug\net8.0\October20GroupBy.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\bin\Debug\net8.0\October20GroupBy.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\bin\Debug\net8.0\October20GroupBy.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\bin\Debug\net8.0\October20GroupBy.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\refint\October20GroupBy.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\October20GroupBy.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\October20GroupBy\obj\Debug\net8.0\ref\October20GroupBy.dll

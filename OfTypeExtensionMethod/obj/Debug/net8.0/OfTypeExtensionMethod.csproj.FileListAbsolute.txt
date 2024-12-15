@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\bin\Debug\net8.0\OfTypeExtensionMethod.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\bin\Debug\net8.0\OfTypeExtensionMethod.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\bin\Debug\net8.0\OfTypeExtensionMethod.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\bin\Debug\net8.0\OfTypeExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\bin\Debug\net8.0\OfTypeExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\refint\OfTypeExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\OfTypeExtensionMethod.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\OfTypeExtensionMethod\obj\Debug\net8.0\ref\OfTypeExtensionMethod.dll

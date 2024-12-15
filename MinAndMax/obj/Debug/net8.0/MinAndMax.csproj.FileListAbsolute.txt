@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\bin\Debug\net8.0\MinAndMax.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\bin\Debug\net8.0\MinAndMax.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\bin\Debug\net8.0\MinAndMax.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\bin\Debug\net8.0\MinAndMax.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\bin\Debug\net8.0\MinAndMax.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\refint\MinAndMax.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\MinAndMax.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\MinAndMax\obj\Debug\net8.0\ref\MinAndMax.dll

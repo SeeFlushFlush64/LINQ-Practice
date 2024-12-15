@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\bin\Debug\net8.0\FindTheShortestStringInAStringArray.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\bin\Debug\net8.0\FindTheShortestStringInAStringArray.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\bin\Debug\net8.0\FindTheShortestStringInAStringArray.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\bin\Debug\net8.0\FindTheShortestStringInAStringArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\bin\Debug\net8.0\FindTheShortestStringInAStringArray.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\refint\FindTheShortestStringInAStringArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\FindTheShortestStringInAStringArray.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\FindTheShortestStringInAStringArray\obj\Debug\net8.0\ref\FindTheShortestStringInAStringArray.dll

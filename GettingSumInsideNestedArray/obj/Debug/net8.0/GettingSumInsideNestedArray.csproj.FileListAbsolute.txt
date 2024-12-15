@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\bin\Debug\net8.0\GettingSumInsideNestedArray.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\bin\Debug\net8.0\GettingSumInsideNestedArray.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\bin\Debug\net8.0\GettingSumInsideNestedArray.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\bin\Debug\net8.0\GettingSumInsideNestedArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\bin\Debug\net8.0\GettingSumInsideNestedArray.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\refint\GettingSumInsideNestedArray.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\GettingSumInsideNestedArray.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GettingSumInsideNestedArray\obj\Debug\net8.0\ref\GettingSumInsideNestedArray.dll

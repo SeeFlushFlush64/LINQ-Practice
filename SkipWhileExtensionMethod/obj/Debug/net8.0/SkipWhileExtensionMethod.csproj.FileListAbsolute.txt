@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\bin\Debug\net8.0\SkipWhileExtensionMethod.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\bin\Debug\net8.0\SkipWhileExtensionMethod.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\bin\Debug\net8.0\SkipWhileExtensionMethod.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\bin\Debug\net8.0\SkipWhileExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\bin\Debug\net8.0\SkipWhileExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\refint\SkipWhileExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\SkipWhileExtensionMethod.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SkipWhileExtensionMethod\obj\Debug\net8.0\ref\SkipWhileExtensionMethod.dll

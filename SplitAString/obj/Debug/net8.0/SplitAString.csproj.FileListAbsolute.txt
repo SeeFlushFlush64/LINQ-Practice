@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\bin\Debug\net8.0\SplitAString.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\bin\Debug\net8.0\SplitAString.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\bin\Debug\net8.0\SplitAString.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\bin\Debug\net8.0\SplitAString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\bin\Debug\net8.0\SplitAString.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\refint\SplitAString.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\SplitAString.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SplitAString\obj\Debug\net8.0\ref\SplitAString.dll

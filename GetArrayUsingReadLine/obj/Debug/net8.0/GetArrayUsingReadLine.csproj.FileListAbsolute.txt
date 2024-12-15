@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\bin\Debug\net8.0\GetArrayUsingReadLine.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\bin\Debug\net8.0\GetArrayUsingReadLine.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\bin\Debug\net8.0\GetArrayUsingReadLine.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\bin\Debug\net8.0\GetArrayUsingReadLine.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\bin\Debug\net8.0\GetArrayUsingReadLine.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\refint\GetArrayUsingReadLine.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\GetArrayUsingReadLine.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\GetArrayUsingReadLine\obj\Debug\net8.0\ref\GetArrayUsingReadLine.dll

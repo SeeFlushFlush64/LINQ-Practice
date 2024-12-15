@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\bin\Debug\net8.0\SingleExtensionMethod.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\bin\Debug\net8.0\SingleExtensionMethod.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\bin\Debug\net8.0\SingleExtensionMethod.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\bin\Debug\net8.0\SingleExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\bin\Debug\net8.0\SingleExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\refint\SingleExtensionMethod.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\SingleExtensionMethod.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\SingleExtensionMethod\obj\Debug\net8.0\ref\SingleExtensionMethod.dll

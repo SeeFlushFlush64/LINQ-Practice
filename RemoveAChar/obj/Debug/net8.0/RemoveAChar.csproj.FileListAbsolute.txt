@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\bin\Debug\net8.0\RemoveAChar.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\bin\Debug\net8.0\RemoveAChar.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\bin\Debug\net8.0\RemoveAChar.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\bin\Debug\net8.0\RemoveAChar.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\bin\Debug\net8.0\RemoveAChar.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\refint\RemoveAChar.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\RemoveAChar.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\RemoveAChar\obj\Debug\net8.0\ref\RemoveAChar.dll

@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\bin\Debug\net8.0\PaggawaNgRange.exe
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\bin\Debug\net8.0\PaggawaNgRange.deps.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\bin\Debug\net8.0\PaggawaNgRange.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\bin\Debug\net8.0\PaggawaNgRange.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\bin\Debug\net8.0\PaggawaNgRange.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\refint\PaggawaNgRange.dll
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.pdb
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\PaggawaNgRange.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\linq-practice\PaggawaNgRange\obj\Debug\net8.0\ref\PaggawaNgRange.dll
